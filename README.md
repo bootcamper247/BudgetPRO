@@ -20,7 +20,9 @@ budget.PRO interacts with its users and a database in the following ways:
 
 1. On the `Income` page, users can enter specific information about their income into the form and submit it to the page and database by clicking "Submit".
 
-<img src="https://user-images.githubusercontent.com/46382684/58748303-7067bc80-8444-11e9-89cb-abc305dcab90.PNG" style="border:5px ridge">
+
+<img src="https://user-images.githubusercontent.com/44557111/61996111-bb760880-b05e-11e9-8144-d938c76659a5.PNG" style="border:5px ridge">
+
 
 2. After entering all their monthly sources of income, users will continue to the `Expenses` page and enter every type of expense they incur on a monthly basis. 
 
