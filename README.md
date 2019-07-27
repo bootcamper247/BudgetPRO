@@ -26,7 +26,8 @@ budget.PRO interacts with its users and a database in the following ways:
 
 2. After entering all their monthly sources of income, users will continue to the `Expenses` page and enter every type of expense they incur on a monthly basis. 
 
-<img src="https://user-images.githubusercontent.com/46382684/58748324-e1a76f80-8444-11e9-853f-754d3091ae25.PNG" style="border:5px ridge">
+<img src="https://user-images.githubusercontent.com/44557111/61996111-bb760880-b05e-11e9-8144-d938c76659a5.PNG" style="border:5px ridge">
+
 
 3. Finally, users will move to the `Overview` page to see a graphical representation of where their money is being spent. 
 
