@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS budgetPro_db;
+
+CREATE DATABASE budgetPro_db;
+
+
