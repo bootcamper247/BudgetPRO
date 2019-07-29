@@ -40,4 +40,4 @@ Additionally, there are resources available throughout budget.PRO to better unde
 
 ## TECHNOLOGIES USED
 
-budget.PRO was built using Sequelize and Sequelize CLI, Express, MySQL, jQuery, Javascript, HTML & CSS. It uses the JawsDB to provide a fully functional MySQL Database server for use with Heroku. It was integrated on all branches with Github by Travis CI, and utlized eslint for linting purposes.
+budget.PRO was built using Sequelize and Sequelize CLI, Express, MySQL, Chart.js, Node.js, jQuery, Javascript, HTML & CSS. It uses the JawsDB to provide a fully functional MySQL Database server for use with Heroku. It was integrated on all branches with Github by Travis CI, and utlized eslint for linting purposes.
