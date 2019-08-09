@@ -9,7 +9,7 @@ $(document).ready(() => {
     //default values
     var durationTxt = "current month";
     var queryURL = "/api/spending/currentMonth";
-    var chartOption = "";
+    var chartOption = "spending";
 
     //When page loads get query data from server and display it dynamically
     runQuerySpending(queryURL);
@@ -124,7 +124,7 @@ $(document).ready(() => {
         $(".chart-container-pie").show();
 
         var ctx = $("#pieChart");
-        myChart.
+        // myChart.destroy();
         myChart = new Chart(ctx, {
             type: 'doughnut',
             data: {
@@ -153,6 +153,7 @@ $(document).ready(() => {
         $(".chart-container-bar").show();
 
         var ctx = document.getElementById("barChart");
+        myChart.destroy();
         myChart = new Chart(ctx, {
             type: 'bar',
             data: {
